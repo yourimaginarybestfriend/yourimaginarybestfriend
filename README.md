@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello there,
+
+  My name is Takala and I am a Cybersecurity fellow at The Knowledge House. 
+  I am currently working on building my portfolio.
+  I'm currently learning Javascript.
 
 <!--
 **yourimaginarybestfriend/yourimaginarybestfriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
