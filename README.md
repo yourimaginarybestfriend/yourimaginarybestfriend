@@ -36,8 +36,12 @@ My personal interests include reading, music, anime, video games, and diving dee
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourimaginarybestfriend&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <br>
-  <img src="https://github.com/yourimaginarybestfriend/yourimaginarybestfriend/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourimaginarybestfriend/yourimaginarybestfriend/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourimaginarybestfriend/yourimaginarybestfriend/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yourimaginarybestfriend/yourimaginarybestfriend/output/github-snake.svg" />
+</picture>
+
 
 ---
 
